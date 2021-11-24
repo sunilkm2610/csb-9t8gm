@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sunilkm2610.github.io/csb-9t8gm/static/css/main.2de5d8d4.chunk.css",
+    "main.js": "https://sunilkm2610.github.io/csb-9t8gm/static/js/main.780149aa.chunk.js",
+    "main.js.map": "https://sunilkm2610.github.io/csb-9t8gm/static/js/main.780149aa.chunk.js.map",
+    "runtime-main.js": "https://sunilkm2610.github.io/csb-9t8gm/static/js/runtime-main.c6e5a974.js",
+    "runtime-main.js.map": "https://sunilkm2610.github.io/csb-9t8gm/static/js/runtime-main.c6e5a974.js.map",
+    "static/js/2.065efdf2.chunk.js": "https://sunilkm2610.github.io/csb-9t8gm/static/js/2.065efdf2.chunk.js",
+    "static/js/2.065efdf2.chunk.js.map": "https://sunilkm2610.github.io/csb-9t8gm/static/js/2.065efdf2.chunk.js.map",
+    "index.html": "https://sunilkm2610.github.io/csb-9t8gm/index.html",
+    "static/css/main.2de5d8d4.chunk.css.map": "https://sunilkm2610.github.io/csb-9t8gm/static/css/main.2de5d8d4.chunk.css.map",
+    "static/js/2.065efdf2.chunk.js.LICENSE.txt": "https://sunilkm2610.github.io/csb-9t8gm/static/js/2.065efdf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6e5a974.js",
+    "static/js/2.065efdf2.chunk.js",
+    "static/css/main.2de5d8d4.chunk.css",
+    "static/js/main.780149aa.chunk.js"
+  ]
+}
